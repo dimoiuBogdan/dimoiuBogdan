@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dimoiuBogdan
-- 👀 I’m interested in web development ( React / Wordpress ).
+- 👀 I’m interested in web development ( React ).
 - 🌱 I’m currently learning React
 - 📫 How to reach me : bogdybogdan34@gmail.com
 
