@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dimoiuBogdan
 - 👀 I’m interested in web development ( React ).
-- 🌱 I’m currently learning React
+- 🌱 I’m currently mastering advanced React
 - 📫 How to reach me : dimoiubogdan03@gmail.com / +40727892022 ( Whatsapp )
 
 <!---
