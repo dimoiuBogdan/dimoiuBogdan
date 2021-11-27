@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dimoiu Bogdan
-- 👀 I’m interested in web development ( React & .NET )
-- 🌱 I’m currently mastering advanced React
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Advanced React & Node
 - 📫 How to reach me : dimoiubogdan03@gmail.com / +40727892022 ( Whatsapp )
 
 <!---
