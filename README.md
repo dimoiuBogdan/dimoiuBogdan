@@ -4,9 +4,6 @@ Hi 👋 My name is Dimoiu Bogdan
 Web developer
 -------------
 
-Hello, my name is Bogdan and I've been working as a Front-End Dev. for 4 years now.
-
-
 * 🌍  I'm based in Romania, Sibiu
 * ✉️  You can contact me at [dimoiubogdan03@gmail.com](mailto:dimoiubogdan03@gmail.com)
 * 🧠  React, Next, Typescript, Tailwind, Prisma, .NET, SQL
