@@ -4,11 +4,13 @@ Hi 👋 My name is Dimoiu Bogdan
 Web developer
 -------------
 
-Hello, my name is Bogdan and I've been learning to for 3 years now. I spent a lot of time on courses, tutorials, blogs and other available resources for self-teaching. For almost an year now I've been working at ITPerspectives as a Front-End Developer on an amazing project, along with great people. Currently, the goal is to improve my Front-End skills and get a solid grasp of Back-End basics in .NET.
+Hello, my name is Bogdan and I've been working as a Front-End Dev. for 4 years now.
+
 
 * 🌍  I'm based in Romania, Sibiu
 * ✉️  You can contact me at [dimoiubogdan03@gmail.com](mailto:dimoiubogdan03@gmail.com)
-* 🧠  I'm learning Advanced React & .NET
+* 🧠  React, Next, Typescript, Tailwind, Prisma, .NET, SQL
+* 💼  IT Perspectives 2021 - 2025 | Visma 2025 - ongoing
 * ⚡  Thanks for visiting my profile!
 
 <a href="https://www.github.com/dimoiuBogdan" target="_blank" rel="noreferrer"><img
